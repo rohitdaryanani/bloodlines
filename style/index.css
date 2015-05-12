@@ -1,0 +1,46 @@
+body {
+    color : black;
+}
+
+.content {
+    margin-top: 150px;
+    text-align: center;
+    color: black;
+}
+
+.splash-text {
+    font-size: 21px;
+}
+
+.footer {
+    margin-top: 100px;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+}
+
+.footer-intro {
+    color: black;
+    opacity: 0.5;
+}
+
+.social {
+    text-decoration: none;
+    color: black;
+}
+
+.social:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.form-control-inline {
+    min-width: 0;
+    width: 25% !important;
+    display: inline;
+}
+
+.signup {
+    text-align: center;
+    margin-left: 35%;
+}
